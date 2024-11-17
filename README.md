@@ -13,6 +13,7 @@
 
 ### 2. 질병 카드 화면
 <img src="images/disease_cards.png" alt="Disease Cards Screen" width="400">
+<img src="images/whole_cards.png" alt="Selection of Disease Cards" width="400">
 
 ### 3. 소식지 화면
 <img src="images/newsletter_screen.png" alt="Newsletter Screen" width="400">
@@ -82,18 +83,18 @@
 
 ## 팀 역할 분담
 
-### 성형주 
-- 데이터베이스 연동
-- 외부 서버 이미지 다운로드
-- 백신 추천 서비스 구현
-- UI 업데이트
-- 발표 자료 작성
-
 ### 이진솔 
 - Jetpack Library(ViewPager, Fragment)를 이용한 화면 네비게이션 구현
 - 화면 디자인 및 모든 페이지 구성
 - Activity 3개 구현 및 Intent를 활용한 데이터 전달
 - 발표 자료 정리
+
+  
+### 성형주 
+- 데이터베이스 연동
+- 외부 서버 이미지 다운로드
+- 백신 추천 서비스 구현
+- 발표 자료 작성
 
 ---
 
